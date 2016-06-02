@@ -1,4 +1,4 @@
-FROM osmtw/mapnik3:v2.2.0
+FROM osmtw/mapnik2:v2.2.0
 MAINTAINER Rex Tsai <rex.cc.tsai@gmail.com>
 
 WORKDIR /usr/local/src
